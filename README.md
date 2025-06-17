@@ -1,2 +1,2 @@
-# klinik-ci-3
-Aplikasi web klinik sederhana menggunakan codeigniter 3
+# Test
+email : test Password : 12345
